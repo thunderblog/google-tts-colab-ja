@@ -2,7 +2,7 @@
 
 Google Cloud TTS × Colab で日本語ナレーション MP3 を一括生成 | Batch Japanese narration generator via Google Cloud TTS on Colab — no JSON key required.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thunderblog/google-tts-colab-ja/blob/main/narration_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thunderblog/google-tts-colab-ja/blob/main/tts_narration.ipynb)
 
 ---
 
@@ -36,7 +36,7 @@ Google Cloud TTS × Colab で日本語ナレーション MP3 を一括生成 | B
 - **そのまま試す**：バッジをクリック
 - **自分のドライブにコピーして使う**：↓ のリンクを使用
 
-👉 [自分のドライブにコピーして開く](https://colab.research.google.com/github/thunderblog/google-tts-colab-ja/blob/main/narration_colab.ipynb?copy=true)
+👉 [自分のドライブにコピーして開く](https://colab.research.google.com/github/thunderblog/google-tts-colab-ja/blob/main/tts_narration.ipynb?copy=true)
 
 ### 2. 事前準備
 

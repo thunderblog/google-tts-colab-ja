@@ -77,6 +77,25 @@ Google Cloud TTS × Colab で日本語ナレーション MP3 を一括生成 | B
 
 ---
 
+---
+
+## FAQ / トラブルシュート
+
+よくあるエラーと対処法です。
+
+| エラー / 症状 | 原因 | 対処 |
+|---|---|---|
+| `PERMISSION_DENIED` / `403` | 課金アカウントが未設定 | Cloud Console → 課金 から課金アカウントを紐付ける |
+| `API has not been used in project ... before or it is disabled` | Text-to-Speech API が未有効化 | Cloud Console → API とサービス → ライブラリ から Cloud Text-to-Speech API を有効化 |
+| `credential propagation was unsuccessful` | Colab の認証タイムアウト | ページを再読み込みして Step 1 から実行し直す |
+| CSV が文字化け | エンコードの問題 | Excel の場合は「CSV UTF-8(コンマ区切り)」形式で保存し直す |
+| `Quota exceeded` | 無料枠を超過 | Cloud Console → 割り当てとシステム上限 で使用量を確認 |
+| `id` が重複したら最後のファイルだけ残る | 仕様 | CSV の `id` 列がファイル名になるため重複させない |
+
+上記以外のエラーは [Issues](https://github.com/thunderblog/google-tts-colab-ja/issues) までお願いします。
+
+---
+
 ## ライセンス
 
 [MIT License](./LICENSE)

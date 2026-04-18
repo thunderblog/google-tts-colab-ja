@@ -43,8 +43,11 @@ Google Cloud TTS × Colab で日本語ナレーション MP3 を一括生成 | B
 実行前に以下の準備が必要です。
 
 1. [Google Cloud Console](https://console.cloud.google.com/) で GCP プロジェクトを作成
-2. **Cloud Text-to-Speech API** を有効化
-3. プロジェクト ID を控えておく
+2. **課金アカウントを紐付け**（無料枠内でも必須です）
+3. **Cloud Text-to-Speech API** を有効化
+4. プロジェクト ID を控えておく
+
+> ℹ️ 無料枠（Chirp3 HD / Neural2: 月 100 万文字、Wavenet / Standard: 月 400 万文字）内であれば課金は発生しませんが、課金アカウントの紐付け自体は必須です。
 
 詳細な手順は[記事](#)で解説しています。
 

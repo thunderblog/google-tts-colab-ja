@@ -12,8 +12,8 @@ Google Cloud TTS × Colab で日本語ナレーション MP3 を一括生成 | B
 
 ブログ記事・YouTube 動画と合わせて公開しています。
 
-- 📝 **記事**：[Google Cloud TTS を Colab で使う方法【MP3 一括生成】](#)（公開後にリンクを更新）
-- 🎬 **YouTube**：[Google Cloud TTS × Colab 後編 — MP3 一括生成してダウンロード](#)（公開後にリンクを更新）
+- 📝 **記事**：[Google Cloud TTS を Colab で使う方法【MP3 一括生成】](https://thunderblog.org/programming/google-tts-narration-mp3-auto)
+- 🎬 **YouTube**：[Google Cloud TTS × Colab 後編 — MP3 一括生成してダウンロード](https://youtu.be/PgQVQQqnaoM?si=HP6qVbEkmaqW6OZS)
 
 ---
 
@@ -49,7 +49,7 @@ Google Cloud TTS × Colab で日本語ナレーション MP3 を一括生成 | B
 
 > ℹ️ 無料枠（Chirp3 HD / Neural2: 月 100 万文字、Wavenet / Standard: 月 400 万文字）内であれば課金は発生しませんが、課金アカウントの紐付け自体は必須です。
 
-詳細な手順は[記事](#)で解説しています。
+詳細な手順は[記事](https://thunderblog.org/programming/google-tts-narration-mp3-auto)で解説しています。
 
 ### 3. ノートブックを上から順に実行
 
